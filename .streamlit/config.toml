@@ -1,0 +1,13 @@
+[theme]
+base = "dark"
+primaryColor = "#E0B25A"
+backgroundColor = "#0F1115"
+secondaryBackgroundColor = "#161A21"
+textColor = "#E8E6E1"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
+
+[server]
+maxUploadSize = 10
